@@ -24,4 +24,3 @@ module.exports = {
 
     },
 }
-// https://stackoverflow.com/questions/51005933/how-do-i-call-upon-a-separate-embed-file-and-then-command-it/51611634
