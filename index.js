@@ -2,7 +2,8 @@ const Discord = require('discord.js');
 const fs = require('fs');
 require('discord-reply');
 const { Client, MessageEmbed } = require('discord.js');
-const { prefix, token, wersja, author} = require('./config.json');
+const { prefix, wersja, author} = require('./config.json');
+const { token } = require('./token.json')
 const path = require('path');
 const { eventNames } = require('process');
 
